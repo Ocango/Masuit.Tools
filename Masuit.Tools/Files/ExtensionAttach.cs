@@ -8,7 +8,7 @@ namespace Masuit.Tools.Files
     public static class ExtensionAttach
     {
         /// <summary>
-        /// 关联文件
+        /// 关联文件，这东西其实就是类似打开方式的使用
         /// </summary>
         /// <param name="filePathString">应用程序路径</param>
         /// <param name="pFileTypeName">文件类型</param>

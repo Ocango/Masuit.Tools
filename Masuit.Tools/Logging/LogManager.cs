@@ -24,6 +24,7 @@ namespace Masuit.Tools.Logging
 
         static LogManager()
         {
+
             var writeTask = new Task(obj =>
             {
                 while (true)
